@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meten\\Downloads\\MVC\\Store\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Meten\\Downloads\\MVC\\Store\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Meten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meten\\Downloads\\MVC\\Store\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meten\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PcncwdSG92w3OrHWkqLQFi8F9HHqERgaPoNPHsBQAol9s0JZ4ENPfxwPbQ+ETbhRYo8piXRhCKfg90rg3+75g==",
+  "dgSpecHash": "YrhXH5Rpel3gzNKs71O225kOURt/3C0Zq8pVqHD7DVRv9q2QsXwI3UnRD6yXlQcwJ7nVA8wHObVjqo6iSttqgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meten\\Downloads\\MVC\\Store\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meten\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\Meten\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",

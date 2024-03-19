@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYk0thlazn2NSqrFvXd2cdGqErpZAWWVFZySk/5XxvOMRzZCx+Bxhuap0CFhCnolzMVyDCmieQ+/3hA2pCfpJw==",
+  "dgSpecHash": "n6nMfFkMmE0eoGk+7NSuYqbs0DHEoaER95HlvnBIz60IcMRTgP89gU83iBFL8IzJiysfKqQQLvNxV79FvVWJHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meten\\Downloads\\MVC\\Store\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meten\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Meten\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
