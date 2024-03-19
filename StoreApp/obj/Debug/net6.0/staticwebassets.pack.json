@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
       "Id": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\default.jpeg",
       "PackagePath": "staticwebassets\\images\\default.jpeg"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nCwBbf6O3+xOVy8PQqIyJ6ZbDwwYbyYsf0iFBkhWjGQ=",
+  "Hash": "GXLKhoSiKOM+RfBvOMwYEPWQ7Ex+KqkLFLlhWxi+iNA=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Html\\error.html"
+    },
+    {
+      "Identity": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\1.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\2.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
       "Identity": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\wwwroot\\images\\default.jpeg",
