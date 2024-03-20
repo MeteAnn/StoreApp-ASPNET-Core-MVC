@@ -100,7 +100,7 @@ namespace StoreApp.Areas.Admin.Controllers
 
         [HttpPost] 
         [ValidateAntiForgeryToken]       
-        public async Task<IActionResult> Update([FromForm]ProductDtoForUpdate productDto, IFormFile file.FileName)
+        public async Task<IActionResult> Update([FromForm]ProductDtoForUpdate productDto, IFormFile file)
         {   
 
            if (ModelState.IsValid)
@@ -118,7 +118,7 @@ namespace StoreApp.Areas.Admin.Controllers
                     productDto.ImageUrl = String.Concat("/images/",file.FileName);
                     
                    
-                    _manager.ProductService.CreateProduct(productDto);
+                    _manager.ProductService.UpdateOneProduct(productDto);
                     return RedirectToAction("Index");
 
             }
