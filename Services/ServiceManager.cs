@@ -1,6 +1,4 @@
-using Entities.Models;
 using Services.Contracts;
-using Repositories.Contracts;
 
 namespace Services
 {
@@ -8,19 +6,26 @@ namespace Services
     {
         private readonly IProductService _productService;
         private readonly ICategoryService _categoryService;
+        private readonly IOrderService _orderService;
+        
 
         public ServiceManager(IProductService productService,
-        ICategoryService categoryService)
+        ICategoryService categoryService,
+        IOrderService orderService
+        )
         {
             _productService = productService;
             _categoryService = categoryService;
-           
+            _orderService = orderService;
+          
         }
 
         public IProductService ProductService => _productService;
 
         public ICategoryService CategoryService => _categoryService;
 
-      
+        public IOrderService OrderService => _orderService;
+
+        
     }
 }
