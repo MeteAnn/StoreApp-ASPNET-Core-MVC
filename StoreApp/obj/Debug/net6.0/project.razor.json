@@ -12684,79 +12684,6 @@
         }
       },
       {
-        "HashCode": -2103463348,
-        "Kind": "ITagHelper",
-        "Name": "StoreApp.Infrastructure.TagHelpers.PageLinkTagHelper",
-        "AssemblyName": "StoreApp",
-        "CaseSensitive": false,
-        "TagMatchingRules": [
-          {
-            "TagName": "div",
-            "Attributes": [
-              {
-                "Name": "page-model"
-              }
-            ]
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-model",
-            "TypeName": "StoreApp.Models.Pagination",
-            "Metadata": {
-              "Common.PropertyName": "PageModel"
-            }
-          },
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-action",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "PageAction"
-            }
-          },
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-classes-enabled",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "PageClassesEnabled"
-            }
-          },
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-class",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "PageClass"
-            }
-          },
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-class-normal",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "PageClassNormal"
-            }
-          },
-          {
-            "Kind": "ITagHelper",
-            "Name": "page-class-selected",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "PageClassSelected"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "StoreApp.Infrastructure.TagHelpers.PageLinkTagHelper",
-          "Common.TypeNameIdentifier": "PageLinkTagHelper",
-          "Common.TypeNamespace": "StoreApp.Infrastructure.TagHelpers",
-          "Runtime.Name": "ITagHelper"
-        }
-      },
-      {
         "HashCode": -1494944453,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
@@ -18595,8 +18522,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\User\\Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\User\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\User\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\User\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\Order\\_OrderDetails.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Order\\_OrderDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Infrastructure\\TagHelpers\\TableTagHelper.cshtml",
+      "TargetPath": "Infrastructure\\TagHelpers\\TableTagHelper.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18620,11 +18562,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Infrastructe\\TagHelpers\\TableTagHelper.cshtml",
-      "TargetPath": "Infrastructe\\TagHelpers\\TableTagHelper.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\Shared\\Components\\Showcase\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\Showcase\\Default.cshtml",
       "FileKind": "mvc"
@@ -18632,6 +18569,11 @@
     {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\Shared\\_LoginMenu.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginMenu.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18665,8 +18607,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Role\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\Product\\Update.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18732,6 +18684,11 @@
     {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\Shared\\Components\\ProductFilterMenu\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\ProductFilterMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
