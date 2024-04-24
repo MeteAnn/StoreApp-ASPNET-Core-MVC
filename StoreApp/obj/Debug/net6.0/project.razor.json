@@ -12757,6 +12757,57 @@
         }
       },
       {
+        "HashCode": -511457744,
+        "Kind": "ITagHelper",
+        "Name": "StoreApp.Infrastructure.TagHelpers.TableTagHelper",
+        "AssemblyName": "StoreApp",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "table"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "StoreApp.Infrastructure.TagHelpers.TableTagHelper",
+          "Common.TypeNameIdentifier": "TableTagHelper",
+          "Common.TypeNamespace": "StoreApp.Infrastructure.TagHelpers",
+          "Runtime.Name": "ITagHelper"
+        }
+      },
+      {
+        "HashCode": -1177472795,
+        "Kind": "ITagHelper",
+        "Name": "StoreApp.Infrastructure.TagHelpers.UserRoleTagHelper",
+        "AssemblyName": "StoreApp",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "td",
+            "Attributes": [
+              {
+                "Name": "user-role"
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "user-name",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "UserName"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "StoreApp.Infrastructure.TagHelpers.UserRoleTagHelper",
+          "Common.TypeNameIdentifier": "UserRoleTagHelper",
+          "Common.TypeNamespace": "StoreApp.Infrastructure.TagHelpers",
+          "Runtime.Name": "ITagHelper"
+        }
+      },
+      {
         "HashCode": 230485856,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
@@ -18597,11 +18648,6 @@
     {
       "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\StoreApp\\Infrastructure\\TagHelpers\\TableTagHelper.cshtml",
-      "TargetPath": "Infrastructure\\TagHelpers\\TableTagHelper.cshtml",
       "FileKind": "mvc"
     },
     {
