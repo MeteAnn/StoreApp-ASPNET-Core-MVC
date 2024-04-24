@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n6nMfFkMmE0eoGk+7NSuYqbs0DHEoaER95HlvnBIz60IcMRTgP89gU83iBFL8IzJiysfKqQQLvNxV79FvVWJHw==",
+  "dgSpecHash": "SnZeWTUjpIfQZbdqje/D/5mPx2r2S9Fv5senHRiF+lU9ap+v68rgdHSK/xi9xkUqWif8JVJJG/5MB2XeRHHaKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Meten\\Downloads\\MVC\\StoreApp-ASPNET-Core-MVC\\Services\\Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Meten\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Meten\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Meten\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Meten\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Meten\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\Meten\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
     "C:\\Users\\Meten\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.0.nupkg.sha512",
